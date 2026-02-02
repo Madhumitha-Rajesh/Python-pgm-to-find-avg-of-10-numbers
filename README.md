@@ -1,0 +1,1 @@
+# Python-pgm-to-find-avg-of-10-numbers
